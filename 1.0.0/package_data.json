@@ -1,0 +1,55 @@
+{
+    "name": "-users-random-messages",
+    "version": "1.0.0",
+    "description": "random messages",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript",
+        "node",
+        "npm"
+    ],
+    "author": {
+        "name": "Danelia Sanchez"
+    },
+    "license": "MIT",
+    "bin": {
+        "random-msg": "bin/global.js"
+    },
+    "preferGlobal": true,
+    "_id": "-users-random-messages@1.0.0",
+    "_nodeVersion": "12.16.3",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-0ZIIavH/J2jFlSqlCMrDZNOrR+88jBmEbCZ8WpjYPNXHe3kuTy6ZRpRkzIcT8QHHWFeyy8DaRkTiex1I8os2qA==",
+        "shasum": "d04229234a8af92934dd39bd97363d29cbde89f2",
+        "tarball": "https://registry.npmjs.org/-users-random-messages/-/-users-random-messages-1.0.0.tgz",
+        "fileCount": 3,
+        "unpackedSize": 781,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJe7/P0CRA9TVsSAnZWagAAtrkP/1ySmChvo+rYC2CZl7PP\npsmItmVNz9McDz3bt7Mp/91AF8U07FeJQ3I8kyTKryaksVk9i5nfQ0klLF6X\n+68WNA6TU488/AEtZapTJMGu0eFKNgiuR8372xtoLBwonEM4z6rqu6SWQf+Q\nIO66TSXga6Ss4kaFpYH6zE6DuRhIFduPX60lkW7kr51HAOraxsclcSPEupwH\nbvFylAYR6sLuOer8qcDqXkyppx9HapqH1ygYXZuo9Pf913SpbLTtbpORTVrb\nwBHtEYOulymE2nkqNuRj9dOCjkQPDEhZfEmYU1CwfdmY9ZxyQSeQFBP3u/RC\nELE993S7hVX5Xpmzr7+c7PiTbCDbgHk7X3Com6vAKaaFCDDrGHhCjNjxt9te\nzcfQz2gjMmQ8FIhRHWZFKD3BylMMLJTW3TFk0ZmyMST2jmP/HqE/+NvWGosl\n3iwSpbeXegp30AnfotVw2C5lHjD+04a3iPNbEkK/uQO1+mdFstPVODiXbkTe\nwxMHshuEM4fPd4mSnbcZjMRaS8V3VkPqSsJoSKxjfllshF7LlLza/KaJNhXP\nIdJLEq98EesTVdZJBqg3Fvx8VqC8cFznIZp1Bj/XUJY7OUWV52nwG4ionc2/\nHYdTaGnmxZI1lPTSRgshcWp1Cfg4BnlN5CA0jsJ6PBi2gO2inW+zbvzhKmMS\n3biS\r\n=oFf/\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDxX2jceBBr3EMbBH5ATNi3PIBfP9rtzBq7yIkE9p5yEgIgNEABMap1PqrzC+Umiy1A/khkE5IWRWIQfbNxVGhgIu8="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "daneliasanchz",
+            "email": "daneliaflak20@gmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "daneliasanchz",
+        "email": "daneliaflak20@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-users-random-messages_1.0.0_1592783859779_0.714232732127007"
+    },
+    "_hasShrinkwrap": false
+}

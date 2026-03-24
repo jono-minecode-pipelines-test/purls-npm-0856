@@ -1,0 +1,64 @@
+{
+    "name": "-users-random-messages",
+    "version": "1.0.1",
+    "description": "random messages",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "javascript",
+        "node",
+        "npm"
+    ],
+    "author": {
+        "name": "Danelia Sanchez"
+    },
+    "license": "MIT",
+    "bin": {
+        "random-msg": "bin/global.js"
+    },
+    "preferGlobal": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DaneliaSanchz/npm-random-messages.git"
+    },
+    "bugs": {
+        "url": "https://github.com/DaneliaSanchz/npm-random-messages/issues"
+    },
+    "homepage": "https://github.com/DaneliaSanchz/npm-random-messages#readme",
+    "gitHead": "eb1c40c67b4768f6906ebb278e07dda5b5d60331",
+    "_id": "-users-random-messages@1.0.1",
+    "_nodeVersion": "12.16.3",
+    "_npmVersion": "6.14.5",
+    "dist": {
+        "integrity": "sha512-hZXb883zSCrWJ38oxC4jjwdu1P0IJP8zC9fbuu4UN/ClQW2fDv/oBssCP9nqSFtsrxBNsHGWcuLrx1K7YlRkIw==",
+        "shasum": "1374eed1925a2a7a288c8fe6d860704cae095559",
+        "tarball": "https://registry.npmjs.org/-users-random-messages/-/-users-random-messages-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 1607,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJe7/r0CRA9TVsSAnZWagAAw34P/jvtqfIjg+7NXT2MbYX4\nqedRHqApIi6FwaQMwzWj9mwP8DQ2wgnthCTIWkHff5WVuF0uz19u0sV9QtVK\nV9s4wB9UFv+bHHR9dEzok9Xa3e2HfKBoVlXfW4oX/KtBipCKZJTPVXpR8DuO\n28zVZ3lqFr/a4UgMZbyo96631TRRLM64yephco0LqCK7RjyuMjTnXeoUHi+2\nQZPuD0yEn/LUHPEwfkO+u+I2X0+tSpS3awWpjp6zF7Z02Meprh12HDaHUR4u\nqVUvcd78tYLkueOzssyITpgOEtNDzFAznekIqnWlSrQNmZmpx4JxOuXdukFG\nJKx50tXkgInGHlsmuVG+NVSSTQEEZumKOmo7feKuK7pcVJlewj1qBVZ7kJJH\nMygI0ioOZpRJb3MFWFlMlOM+xhXeNSUtnO3laJjgk2VYeH3swVPsHY/05mEi\nfpA0cTtIPmgF8aLkFbWmCrnxNCacLVso+u3vA/eglEZiLH3eBjE/pQ9MgB2i\nqyMIG1uHB2ui+rD3hpffsYiX0mK85IjEQmBY0rtftZhVCdORBWFNI3Gj+0Yb\nwI3N2AesYmu8igu92wwSRVpGt50OlivDAvNOoFvUQI9EcYqmu6zAF009nsyk\nCgvj/IwlBxT0UxUX6yjTCmhjnRxGUuzCCt0PFzer4f/IYN4t6tQ6LLU9lyba\nTE0H\r\n=wbBC\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIBGlul5uIrXEBxhtq+JzK72Wc1e/ed8dxhqBzPoOm6mTAiBwUVyfrtFWPib5IQ85j92V4TQO4d52DYwoMbRCnBXlrA=="
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "daneliasanchz",
+            "email": "daneliaflak20@gmail.com"
+        }
+    ],
+    "_npmUser": {
+        "name": "daneliasanchz",
+        "email": "daneliaflak20@gmail.com"
+    },
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-users-random-messages_1.0.1_1592785651805_0.16413260221710502"
+    },
+    "_hasShrinkwrap": false
+}

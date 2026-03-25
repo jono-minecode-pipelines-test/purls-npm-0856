@@ -1,0 +1,45 @@
+{
+    "name": "--hepl",
+    "version": "1.0.0",
+    "author": "",
+    "license": "ISC",
+    "_id": "--hepl@1.0.0",
+    "maintainers": [
+        {
+            "name": "sgpinkus",
+            "email": "sgpinkus@gmail.com"
+        }
+    ],
+    "dist": {
+        "shasum": "dd3e097b039a6ae7afceb3eb41951840a666792b",
+        "tarball": "https://registry.npmjs.org/--hepl/-/--hepl-1.0.0.tgz",
+        "fileCount": 2,
+        "integrity": "sha512-yubWWUhe5/UUwwtm84E+aT5QWXxoB1WIvIqTBRY7zbi50B+x9rKq/Ou7QKe5wryY6iLcL5tZoqTgIsmao9KPlw==",
+        "signatures": [
+            {
+                "sig": "MEUCICriJHIFnEq1T2I6b5IVnpzqIGd2V1wAGOsenKFAFCx4AiEAkfEFga3E3y1/eRdAS7Mb4J2kHeW5OQdnh1sp9bFr1xQ=",
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"
+            }
+        ],
+        "unpackedSize": 261,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjzKMOACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrUAw//RccM79Y0K95kxL1lIV+MZ+DmmYqtE4edo0PWNMCJ93h+GD5J\r\n6fGVbQz7Bz4vka4gU3HrJcsOHshf7OGU5zlxwuViFl15NRLJipknz9uakE2F\r\nxeI5zM8Ij2hz45d+79pTnTvjGKosztDP9Mn6eeN8FU1gwLmifPv+d6oqEAvS\r\n1WCprgu4uD+ok/30bL+4vnncjBavmcxxkZw0FZgEV7KR2KW5kM2CSRN+ifHA\r\nmzo3P5A5e9XsshLtcRsnnoe59fslyRpjEXP91GWbH44/10VzyM+KDfQLsCKg\r\nqSh+70qQ/1n0Sl80dIdQpJgpFdN3yjn2qCSJWOHGtHp7rHsRlffJsoCicNoM\r\n/tV/LyZkIObM/klfedrF2n59beGyvOpH8nFl9sgwGMXhYOsjDrgQT4QlCVE0\r\nICpVw9UtRmx6ouA74dJiWSOH7FRBR0MutRDfppcCft7iJf/z5+TjvDMMK80v\r\nn8jtJru+7QSIZGDiDRyx0xpX39x2Js2DaUkeY9YND8Tofb2carAwz+i6bZWQ\r\nJy1sP2hcjkEy98kgCs66kl4OjcBd3XfR96syStslwf0f8wzKoIRheBb6tJn0\r\ns0wcYP4F2h49PKAOS8QBHyGB7d+Auuw79zTeZMABpwFAgLReJe+z+7A7AEJX\r\neYgltKTF4ek9412yy7ihTBFP4ECtoDP/Hlc=\r\n=jNeP\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "install": "node index.js"
+    },
+    "_npmUser": {
+        "name": "sgpinkus",
+        "email": "sgpinkus@gmail.com"
+    },
+    "_npmVersion": "8.19.3",
+    "description": "",
+    "directories": {},
+    "_nodeVersion": "16.19.0",
+    "_hasShrinkwrap": false,
+    "_npmOperationalInternal": {
+        "tmp": "tmp/--hepl_1.0.0_1674355470264_0.6851489561221356",
+        "host": "s3://npm-registry-packages"
+    }
+}

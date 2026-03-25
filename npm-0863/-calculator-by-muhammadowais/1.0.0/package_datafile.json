@@ -1,0 +1,53 @@
+{
+    "name": "-calculator-by-muhammadowais",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-calculator-by-muhammadowais": "Calculator.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-calculator-by-muhammadowais@1.0.0",
+    "_nodeVersion": "21.6.2",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-BuEsYc0ZlPQt/B9JIlHBO0gIOOT2qqBfoFKRU8r1lbaXzYskKef7Sq1BN2pZQoq6Rf/DtaqYva0NKfooavud8A==",
+        "shasum": "7bb32842ff540b99ac6d7f9150687303396306ae",
+        "tarball": "https://registry.npmjs.org/-calculator-by-muhammadowais/-/-calculator-by-muhammadowais-1.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 16604,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDzKnTncGl+ygLPXrp7OrndrOL0JfzxazUEmC98prwmXwIgDlK05DY3beC0iKYkWRqATFE465Ap1x4P5nK+hvuV7ZQ="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "awais123ashfaq",
+        "email": "awais123ashfaq@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "awais123ashfaq",
+            "email": "awais123ashfaq@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-calculator-by-muhammadowais_1.0.0_1711501829489_0.0889428822644942"
+    },
+    "_hasShrinkwrap": false
+}

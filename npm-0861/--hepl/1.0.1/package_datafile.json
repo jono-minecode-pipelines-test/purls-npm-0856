@@ -1,0 +1,44 @@
+{
+    "name": "--hepl",
+    "version": "1.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "install": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "_id": "--hepl@1.0.1",
+    "gitHead": "2cd042620288c3879f9907b85361e54f49fc47a6",
+    "_nodeVersion": "22.1.0",
+    "_npmVersion": "10.7.0",
+    "dist": {
+        "integrity": "sha512-LTW6LtnmSgKr/LbjDmehaaBmuFiU7Ev02E6PZaUsSFibbWk3EZV0K8qx9p/QyWh8NdI5s6hlzK4kVeP/XHj8rg==",
+        "shasum": "d9c600a7286b6ff9a7f60de471f03d45cfb651fd",
+        "tarball": "https://registry.npmjs.org/--hepl/-/--hepl-1.0.1.tgz",
+        "fileCount": 2,
+        "unpackedSize": 269,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIHQsE9e9Ocum1gQVrAAyInZ3+hEl0QM3QDZ7hYbUS2EuAiEA49hE1vVIUPzsJxvIS1UhLNMYnlQkTvwLrSX4W82KANw="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "sgpinkus",
+        "email": "sgpinkus@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "sgpinkus",
+            "email": "sgpinkus@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/--hepl_1.0.1_1734325106621_0.24903957963906054"
+    },
+    "_hasShrinkwrap": false
+}
